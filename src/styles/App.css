@@ -1,0 +1,50 @@
+@import '~antd/dist/antd.css';
+
+
+.logo  {
+  width: 120px;
+    height: 31px;
+    border-radius: 6px;
+    margin: 16px 28px 16px 0;
+    float: left;
+}
+
+.logout  {
+  width: 300px;
+    height: 100%;
+    float: right;
+    padding-top: 10px;
+    display: inline;
+}
+
+
+.logout img {
+  height: 80%;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+}
+
+
+
+
+
+.ant-layout-header {
+    background: #01947b;
+    padding: 0 50px;
+    height: 64px;
+    line-height: 64px;
+}
+
+ .ant-menu-dark {
+    background: #01947b;
+
+}
+
+.ant-menu-dark.ant-menu-horizontal{
+  border-bottom-color: #01947b;
+}
+
+.ant-layout-sider-trigger{
+  background: #01947b;
+}
